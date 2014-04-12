@@ -1,0 +1,1014 @@
+***********************************************
+Climbing the Citadel...Program Start
+Date: 12/14/2007
+Time: 1:31:2
+***********************************************
+************ Config.ini ************
+Valid config.ini file
+Numbers of lines in config file, 7
+WindowedMode, 1
+ScreenWidth, 1024
+ScreenHeight, 768
+GameLevel, 1
+GameSnow, 1
+GameAudio, 1
+FrameRate, 0
+Reading Config.ini file is complete!
+Game states initialized!
+Game State = Intro
+Window creation successful!
+WIDTH, 1018
+HEIGHT, 743
+************ Game states ************
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+************ Graphicfiles.dat ************
+Numbers of lines in file, 34
+assets\artwork\splash.png, 0
+Texture number loaded, 0
+assets\artwork\mainmenu.png, 1
+Texture number loaded, 1
+assets\artwork\snow1.png, 2
+Texture number loaded, 2
+assets\artwork\snow_boulder_sprite.png, 3
+Texture number loaded, 3
+assets\artwork\things1.png, 4
+Texture number loaded, 4
+assets\artwork\sky2.png, 5
+CreateTexture failed.......
+assets\artwork\bhs_walk_l.png, 6
+Texture number loaded, 6
+assets\artwork\Snowy2.png, 7
+Texture number loaded, 7
+assets\artwork\snow4.png, 8
+Texture number loaded, 8
+assets\artwork\snow5.png, 9
+Texture number loaded, 9
+assets\artwork\AnimationSprites.png, 10
+CreateTexture failed.......
+assets\artwork\snow6.png, 11
+Texture number loaded, 11
+assets\artwork\cp.png, 12
+Texture number loaded, 12
+assets\artwork\cp2.png, 13
+Texture number loaded, 13
+assets\artwork\hj_level_walk_l.png, 14
+Texture number loaded, 14
+assets\artwork\hj_level_walk_r.png, 15
+Texture number loaded, 15
+assets\artwork\sm_sled_l.png, 16
+Texture number loaded, 16
+assets\artwork\sm_sled_r.png, 17
+Texture number loaded, 17
+assets\artwork\wreath-sprite.png, 18
+Texture number loaded, 18
+assets\artwork\hj_uphill_walk_l.png, 19
+Texture number loaded, 19
+assets\artwork\hj_uphill_walk_r.png, 20
+Texture number loaded, 20
+assets\artwork\w_walk_l.png, 21
+Texture number loaded, 21
+assets\artwork\level_signs.png, 22
+Texture number loaded, 22
+assets\artwork\alt_signs.png, 23
+Texture number loaded, 23
+assets\artwork\bhs_walk_l.png, 24
+Texture number loaded, 24
+assets\artwork\How-to-climb.png, 25
+Texture number loaded, 25
+assets\artwork\You_win.png, 26
+Texture number loaded, 26
+assets\artwork\game_over.png, 27
+Texture number loaded, 27
+assets\artwork\next_1.png, 28
+Texture number loaded, 28
+assets\artwork\next_2.png, 29
+Texture number loaded, 29
+assets\artwork\next_3.png, 30
+Texture number loaded, 30
+assets\artwork\present_sprite.png, 31
+Texture number loaded, 31
+assets\artwork\stocking_sprite.png, 32
+Texture number loaded, 32
+assets\artwork\hj_victory_sprite.png, 33
+Texture number loaded, 33
+************ Sprites.dat ************
+Numbers of lines in file, 123
+Loading audio clip...
+Audio system is okay!
+assets\sounds\windy.mp3, 0
+assets\sounds\yodel.wav, 1
+assets\sounds\intro.mp3, 2
+assets\sounds\main_loop.mp3, 3
+Main game loop entered!
+Playing, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+************ Shutting Down ************
+Game state pointers deleted!
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Playing, 3
+Audio sounds are all killed!
+*************************************
+Program ended!
+*************************************
+***********************************************
+Climbing the Citadel...Program Start
+Date: 12/31/2007
+Time: 19:37:35
+***********************************************
+************ Config.ini ************
+Valid config.ini file
+Numbers of lines in config file, 7
+WindowedMode, 1
+ScreenWidth, 1024
+ScreenHeight, 768
+GameLevel, 1
+GameSnow, 1
+GameAudio, 1
+FrameRate, 0
+Reading Config.ini file is complete!
+Game states initialized!
+Game State = Intro
+Window creation successful!
+WIDTH, 1018
+HEIGHT, 743
+************ Game states ************
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+************ Graphicfiles.dat ************
+Numbers of lines in file, 34
+assets\artwork\splash.png, 0
+Texture number loaded, 0
+assets\artwork\mainmenu.png, 1
+Texture number loaded, 1
+assets\artwork\snow1.png, 2
+Texture number loaded, 2
+assets\artwork\snow_boulder_sprite.png, 3
+Texture number loaded, 3
+assets\artwork\things1.png, 4
+Texture number loaded, 4
+assets\artwork\sky2.png, 5
+CreateTexture failed.......
+assets\artwork\bhs_walk_l.png, 6
+Texture number loaded, 6
+assets\artwork\Snowy2.png, 7
+Texture number loaded, 7
+assets\artwork\snow4.png, 8
+Texture number loaded, 8
+assets\artwork\snow5.png, 9
+Texture number loaded, 9
+assets\artwork\AnimationSprites.png, 10
+CreateTexture failed.......
+assets\artwork\snow6.png, 11
+Texture number loaded, 11
+assets\artwork\cp.png, 12
+Texture number loaded, 12
+assets\artwork\cp2.png, 13
+Texture number loaded, 13
+assets\artwork\hj_level_walk_l.png, 14
+Texture number loaded, 14
+assets\artwork\hj_level_walk_r.png, 15
+Texture number loaded, 15
+assets\artwork\sm_sled_l.png, 16
+Texture number loaded, 16
+assets\artwork\sm_sled_r.png, 17
+Texture number loaded, 17
+assets\artwork\wreath-sprite.png, 18
+Texture number loaded, 18
+assets\artwork\hj_uphill_walk_l.png, 19
+Texture number loaded, 19
+assets\artwork\hj_uphill_walk_r.png, 20
+Texture number loaded, 20
+assets\artwork\w_walk_l.png, 21
+Texture number loaded, 21
+assets\artwork\level_signs.png, 22
+Texture number loaded, 22
+assets\artwork\alt_signs.png, 23
+Texture number loaded, 23
+assets\artwork\bhs_walk_l.png, 24
+Texture number loaded, 24
+assets\artwork\How-to-climb.png, 25
+Texture number loaded, 25
+assets\artwork\You_win.png, 26
+Texture number loaded, 26
+assets\artwork\game_over.png, 27
+Texture number loaded, 27
+assets\artwork\next_1.png, 28
+Texture number loaded, 28
+assets\artwork\next_2.png, 29
+Texture number loaded, 29
+assets\artwork\next_3.png, 30
+Texture number loaded, 30
+assets\artwork\present_sprite.png, 31
+Texture number loaded, 31
+assets\artwork\stocking_sprite.png, 32
+Texture number loaded, 32
+assets\artwork\hj_victory_sprite.png, 33
+Texture number loaded, 33
+************ Sprites.dat ************
+Numbers of lines in file, 123
+Loading audio clip...
+Audio system is okay!
+assets\sounds\windy.mp3, 0
+assets\sounds\yodel.wav, 1
+assets\sounds\intro.mp3, 2
+assets\sounds\main_loop.mp3, 3
+Main game loop entered!
+Playing, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+************ loading game level1.dat ************
+Numbers of lines in file, 596
+************ loading game level2.dat ************
+Numbers of lines in file, 609
+************ loading game level3.dat ************
+Numbers of lines in file, 644
+************ loading game level4.dat ************
+Numbers of lines in file, 681
+************ loading game level5.dat ************
+Numbers of lines in file, 719
+FPS, 211
+FPS, 210
+FPS, 109
+FPS, 112
+FPS, 113
+FPS, 129
+FPS, 213
+FPS, 311
+FPS, 308
+FPS, 312
+FPS, 309
+FPS, 310
+FPS, 308
+FPS, 310
+FPS, 308
+FPS, 311
+FPS, 309
+FPS, 310
+FPS, 310
+FPS, 310
+FPS, 308
+FPS, 311
+FPS, 309
+FPS, 310
+FPS, 308
+FPS, 310
+FPS, 309
+FPS, 312
+FPS, 309
+FPS, 617
+FPS, 1086
+FPS, 571
+FPS, 114
+FPS, 114
+FPS, 113
+************ Shutting Down ************
+Game state pointers deleted!
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Playing, 3
+Audio sounds are all killed!
+*************************************
+Program ended!
+*************************************
+***********************************************
+Climbing the Citadel...Program Start
+Date: 1/18/2008
+Time: 23:57:43
+***********************************************
+************ Config.ini ************
+Valid config.ini file
+Numbers of lines in config file, 7
+WindowedMode, 1
+ScreenWidth, 1024
+ScreenHeight, 768
+GameLevel, 1
+GameSnow, 1
+GameAudio, 1
+FrameRate, 0
+Reading Config.ini file is complete!
+Game states initialized!
+Game State = Intro
+Window creation successful!
+WIDTH, 1018
+HEIGHT, 743
+************ Game states ************
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+************ Graphicfiles.dat ************
+Numbers of lines in file, 34
+assets\artwork\splash.png, 0
+Texture number loaded, 0
+assets\artwork\mainmenu.png, 1
+Texture number loaded, 1
+assets\artwork\snow1.png, 2
+Texture number loaded, 2
+assets\artwork\snow_boulder_sprite.png, 3
+Texture number loaded, 3
+assets\artwork\things1.png, 4
+Texture number loaded, 4
+assets\artwork\sky2.png, 5
+CreateTexture failed.......
+assets\artwork\bhs_walk_l.png, 6
+Texture number loaded, 6
+assets\artwork\Snowy2.png, 7
+Texture number loaded, 7
+assets\artwork\snow4.png, 8
+Texture number loaded, 8
+assets\artwork\snow5.png, 9
+Texture number loaded, 9
+assets\artwork\AnimationSprites.png, 10
+CreateTexture failed.......
+assets\artwork\snow6.png, 11
+Texture number loaded, 11
+assets\artwork\cp.png, 12
+Texture number loaded, 12
+assets\artwork\cp2.png, 13
+Texture number loaded, 13
+assets\artwork\hj_level_walk_l.png, 14
+Texture number loaded, 14
+assets\artwork\hj_level_walk_r.png, 15
+Texture number loaded, 15
+assets\artwork\sm_sled_l.png, 16
+Texture number loaded, 16
+assets\artwork\sm_sled_r.png, 17
+Texture number loaded, 17
+assets\artwork\wreath-sprite.png, 18
+Texture number loaded, 18
+assets\artwork\hj_uphill_walk_l.png, 19
+Texture number loaded, 19
+assets\artwork\hj_uphill_walk_r.png, 20
+Texture number loaded, 20
+assets\artwork\w_walk_l.png, 21
+Texture number loaded, 21
+assets\artwork\level_signs.png, 22
+Texture number loaded, 22
+assets\artwork\alt_signs.png, 23
+Texture number loaded, 23
+assets\artwork\bhs_walk_l.png, 24
+Texture number loaded, 24
+assets\artwork\How-to-climb.png, 25
+Texture number loaded, 25
+assets\artwork\You_win.png, 26
+Texture number loaded, 26
+assets\artwork\game_over.png, 27
+Texture number loaded, 27
+assets\artwork\next_1.png, 28
+Texture number loaded, 28
+assets\artwork\next_2.png, 29
+Texture number loaded, 29
+assets\artwork\next_3.png, 30
+Texture number loaded, 30
+assets\artwork\present_sprite.png, 31
+Texture number loaded, 31
+assets\artwork\stocking_sprite.png, 32
+Texture number loaded, 32
+assets\artwork\hj_victory_sprite.png, 33
+Texture number loaded, 33
+************ Sprites.dat ************
+Numbers of lines in file, 123
+Loading audio clip...
+Audio system is okay!
+assets\sounds\windy.mp3, 0
+assets\sounds\yodel.wav, 1
+assets\sounds\intro.mp3, 2
+assets\sounds\main_loop.mp3, 3
+Main game loop entered!
+Playing, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+************ Shutting Down ************
+Game state pointers deleted!
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Playing, 3
+Audio sounds are all killed!
+*************************************
+Program ended!
+*************************************
+***********************************************
+Climbing the Citadel...Program Start
+Date: 5/11/2008
+Time: 0:24:57
+***********************************************
+************ Config.ini ************
+Valid config.ini file
+Numbers of lines in config file, 7
+WindowedMode, 1
+ScreenWidth, 1024
+ScreenHeight, 768
+GameLevel, 1
+GameSnow, 1
+GameAudio, 1
+FrameRate, 0
+Reading Config.ini file is complete!
+Game states initialized!
+Game State = Intro
+Window creation successful!
+WIDTH, 1018
+HEIGHT, 743
+************ Game states ************
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+************ Graphicfiles.dat ************
+Numbers of lines in file, 34
+assets\artwork\splash.png, 0
+Texture number loaded, 0
+assets\artwork\mainmenu.png, 1
+Texture number loaded, 1
+assets\artwork\snow1.png, 2
+Texture number loaded, 2
+assets\artwork\snow_boulder_sprite.png, 3
+Texture number loaded, 3
+assets\artwork\things1.png, 4
+Texture number loaded, 4
+assets\artwork\sky2.png, 5
+CreateTexture failed.......
+assets\artwork\bhs_walk_l.png, 6
+Texture number loaded, 6
+assets\artwork\Snowy2.png, 7
+Texture number loaded, 7
+assets\artwork\snow4.png, 8
+Texture number loaded, 8
+assets\artwork\snow5.png, 9
+Texture number loaded, 9
+assets\artwork\AnimationSprites.png, 10
+CreateTexture failed.......
+assets\artwork\snow6.png, 11
+Texture number loaded, 11
+assets\artwork\cp.png, 12
+Texture number loaded, 12
+assets\artwork\cp2.png, 13
+Texture number loaded, 13
+assets\artwork\hj_level_walk_l.png, 14
+Texture number loaded, 14
+assets\artwork\hj_level_walk_r.png, 15
+Texture number loaded, 15
+assets\artwork\sm_sled_l.png, 16
+Texture number loaded, 16
+assets\artwork\sm_sled_r.png, 17
+Texture number loaded, 17
+assets\artwork\wreath-sprite.png, 18
+Texture number loaded, 18
+assets\artwork\hj_uphill_walk_l.png, 19
+Texture number loaded, 19
+assets\artwork\hj_uphill_walk_r.png, 20
+Texture number loaded, 20
+assets\artwork\w_walk_l.png, 21
+Texture number loaded, 21
+assets\artwork\level_signs.png, 22
+Texture number loaded, 22
+assets\artwork\alt_signs.png, 23
+Texture number loaded, 23
+assets\artwork\bhs_walk_l.png, 24
+Texture number loaded, 24
+assets\artwork\How-to-climb.png, 25
+Texture number loaded, 25
+assets\artwork\You_win.png, 26
+Texture number loaded, 26
+assets\artwork\game_over.png, 27
+Texture number loaded, 27
+assets\artwork\next_1.png, 28
+Texture number loaded, 28
+assets\artwork\next_2.png, 29
+Texture number loaded, 29
+assets\artwork\next_3.png, 30
+Texture number loaded, 30
+assets\artwork\present_sprite.png, 31
+Texture number loaded, 31
+assets\artwork\stocking_sprite.png, 32
+Texture number loaded, 32
+assets\artwork\hj_victory_sprite.png, 33
+Texture number loaded, 33
+************ Sprites.dat ************
+Numbers of lines in file, 123
+Loading audio clip...
+Audio system is okay!
+assets\sounds\windy.mp3, 0
+assets\sounds\yodel.wav, 1
+assets\sounds\intro.mp3, 2
+assets\sounds\main_loop.mp3, 3
+Main game loop entered!
+Playing, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+************ loading game level1.dat ************
+Numbers of lines in file, 596
+FPS, 190
+************ loading game level2.dat ************
+Numbers of lines in file, 609
+FPS, 192
+FPS, 243
+FPS, 245
+FPS, 243
+FPS, 158
+FPS, 158
+FPS, 154
+FPS, 159
+FPS, 157
+FPS, 159
+FPS, 162
+FPS, 161
+FPS, 153
+FPS, 164
+FPS, 171
+FPS, 167
+FPS, 178
+************ loading game level3.dat ************
+Numbers of lines in file, 644
+FPS, 132
+FPS, 226
+FPS, 225
+FPS, 179
+FPS, 129
+FPS, 135
+FPS, 168
+FPS, 166
+************ loading game level4.dat ************
+Numbers of lines in file, 681
+FPS, 106
+FPS, 215
+FPS, 215
+FPS, 191
+FPS, 118
+FPS, 114
+FPS, 119
+FPS, 137
+FPS, 144
+FPS, 145
+FPS, 148
+************ loading game level5.dat ************
+Numbers of lines in file, 719
+FPS, 82
+FPS, 203
+FPS, 205
+FPS, 196
+FPS, 104
+FPS, 141
+FPS, 308
+FPS, 307
+FPS, 308
+FPS, 306
+FPS, 308
+FPS, 307
+FPS, 310
+FPS, 307
+FPS, 309
+FPS, 308
+FPS, 310
+FPS, 307
+FPS, 309
+FPS, 307
+FPS, 309
+FPS, 309
+FPS, 308
+FPS, 307
+FPS, 307
+FPS, 307
+FPS, 309
+FPS, 307
+FPS, 308
+FPS, 307
+FPS, 310
+FPS, 307
+FPS, 309
+FPS, 308
+FPS, 308
+FPS, 308
+FPS, 309
+FPS, 307
+FPS, 308
+FPS, 307
+FPS, 310
+FPS, 306
+FPS, 309
+FPS, 308
+FPS, 309
+FPS, 307
+FPS, 310
+FPS, 603
+FPS, 1105
+FPS, 284
+FPS, 115
+FPS, 113
+FPS, 113
+FPS, 113
+FPS, 114
+FPS, 113
+FPS, 114
+************ Shutting Down ************
+Game state pointers deleted!
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Playing, 3
+Audio sounds are all killed!
+*************************************
+Program ended!
+*************************************
+***********************************************
+Climbing the Citadel...Program Start
+Date: 12/20/2008
+Time: 7:33:16
+***********************************************
+************ Config.ini ************
+Valid config.ini file
+Numbers of lines in config file, 7
+WindowedMode, 1
+ScreenWidth, 1024
+ScreenHeight, 768
+GameLevel, 1
+GameSnow, 1
+GameAudio, 1
+FrameRate, 0
+Reading Config.ini file is complete!
+Game states initialized!
+Game State = Intro
+Window creation successful!
+WIDTH, 1018
+HEIGHT, 743
+************ Game states ************
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+************ Graphicfiles.dat ************
+Numbers of lines in file, 34
+assets\artwork\splash.png, 0
+Texture number loaded, 0
+assets\artwork\mainmenu.png, 1
+Texture number loaded, 1
+assets\artwork\snow1.png, 2
+Texture number loaded, 2
+assets\artwork\snow_boulder_sprite.png, 3
+Texture number loaded, 3
+assets\artwork\things1.png, 4
+Texture number loaded, 4
+assets\artwork\sky2.png, 5
+CreateTexture failed.......
+assets\artwork\bhs_walk_l.png, 6
+Texture number loaded, 6
+assets\artwork\Snowy2.png, 7
+Texture number loaded, 7
+assets\artwork\snow4.png, 8
+Texture number loaded, 8
+assets\artwork\snow5.png, 9
+Texture number loaded, 9
+assets\artwork\AnimationSprites.png, 10
+CreateTexture failed.......
+assets\artwork\snow6.png, 11
+Texture number loaded, 11
+assets\artwork\cp.png, 12
+Texture number loaded, 12
+assets\artwork\cp2.png, 13
+Texture number loaded, 13
+assets\artwork\hj_level_walk_l.png, 14
+Texture number loaded, 14
+assets\artwork\hj_level_walk_r.png, 15
+Texture number loaded, 15
+assets\artwork\sm_sled_l.png, 16
+Texture number loaded, 16
+assets\artwork\sm_sled_r.png, 17
+Texture number loaded, 17
+assets\artwork\wreath-sprite.png, 18
+Texture number loaded, 18
+assets\artwork\hj_uphill_walk_l.png, 19
+Texture number loaded, 19
+assets\artwork\hj_uphill_walk_r.png, 20
+Texture number loaded, 20
+assets\artwork\w_walk_l.png, 21
+Texture number loaded, 21
+assets\artwork\level_signs.png, 22
+Texture number loaded, 22
+assets\artwork\alt_signs.png, 23
+Texture number loaded, 23
+assets\artwork\bhs_walk_l.png, 24
+Texture number loaded, 24
+assets\artwork\How-to-climb.png, 25
+Texture number loaded, 25
+assets\artwork\You_win.png, 26
+Texture number loaded, 26
+assets\artwork\game_over.png, 27
+Texture number loaded, 27
+assets\artwork\next_1.png, 28
+Texture number loaded, 28
+assets\artwork\next_2.png, 29
+Texture number loaded, 29
+assets\artwork\next_3.png, 30
+Texture number loaded, 30
+assets\artwork\present_sprite.png, 31
+Texture number loaded, 31
+assets\artwork\stocking_sprite.png, 32
+Texture number loaded, 32
+assets\artwork\hj_victory_sprite.png, 33
+Texture number loaded, 33
+************ Sprites.dat ************
+Numbers of lines in file, 123
+Loading audio clip...
+Audio system is okay!
+assets\sounds\windy.mp3, 0
+assets\sounds\yodel.wav, 1
+assets\sounds\intro.mp3, 2
+assets\sounds\main_loop.mp3, 3
+Main game loop entered!
+Playing, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+************ loading game level1.dat ************
+Numbers of lines in file, 596
+************ Shutting Down ************
+Game state pointers deleted!
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Playing, 3
+Audio sounds are all killed!
+*************************************
+Program ended!
+*************************************
+***********************************************
+Climbing the Citadel...Program Start
+Date: 10/23/2011
+Time: 19:46:22
+***********************************************
+************ Config.ini ************
+Valid config.ini file
+Numbers of lines in config file, 7
+WindowedMode, 1
+ScreenWidth, 1024
+ScreenHeight, 768
+GameLevel, 1
+GameSnow, 1
+GameAudio, 1
+FrameRate, 0
+Reading Config.ini file is complete!
+Game states initialized!
+Game State = Intro
+Window creation successful!
+WIDTH, 1018
+HEIGHT, 740
+************ Game states ************
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+************ Graphicfiles.dat ************
+Numbers of lines in file, 34
+assets\artwork\splash.png, 0
+Texture number loaded, 0
+assets\artwork\mainmenu.png, 1
+Texture number loaded, 1
+assets\artwork\snow1.png, 2
+Texture number loaded, 2
+assets\artwork\snow_boulder_sprite.png, 3
+Texture number loaded, 3
+assets\artwork\things1.png, 4
+Texture number loaded, 4
+assets\artwork\sky2.png, 5
+CreateTexture failed.......
+assets\artwork\bhs_walk_l.png, 6
+Texture number loaded, 6
+assets\artwork\Snowy2.png, 7
+Texture number loaded, 7
+assets\artwork\snow4.png, 8
+Texture number loaded, 8
+assets\artwork\snow5.png, 9
+Texture number loaded, 9
+assets\artwork\AnimationSprites.png, 10
+CreateTexture failed.......
+assets\artwork\snow6.png, 11
+Texture number loaded, 11
+assets\artwork\cp.png, 12
+Texture number loaded, 12
+assets\artwork\cp2.png, 13
+Texture number loaded, 13
+assets\artwork\hj_level_walk_l.png, 14
+Texture number loaded, 14
+assets\artwork\hj_level_walk_r.png, 15
+Texture number loaded, 15
+assets\artwork\sm_sled_l.png, 16
+Texture number loaded, 16
+assets\artwork\sm_sled_r.png, 17
+Texture number loaded, 17
+assets\artwork\wreath-sprite.png, 18
+Texture number loaded, 18
+assets\artwork\hj_uphill_walk_l.png, 19
+Texture number loaded, 19
+assets\artwork\hj_uphill_walk_r.png, 20
+Texture number loaded, 20
+assets\artwork\w_walk_l.png, 21
+Texture number loaded, 21
+assets\artwork\level_signs.png, 22
+Texture number loaded, 22
+assets\artwork\alt_signs.png, 23
+Texture number loaded, 23
+assets\artwork\bhs_walk_l.png, 24
+Texture number loaded, 24
+assets\artwork\How-to-climb.png, 25
+Texture number loaded, 25
+assets\artwork\You_win.png, 26
+Texture number loaded, 26
+assets\artwork\game_over.png, 27
+Texture number loaded, 27
+assets\artwork\next_1.png, 28
+Texture number loaded, 28
+assets\artwork\next_2.png, 29
+Texture number loaded, 29
+assets\artwork\next_3.png, 30
+Texture number loaded, 30
+assets\artwork\present_sprite.png, 31
+Texture number loaded, 31
+assets\artwork\stocking_sprite.png, 32
+Texture number loaded, 32
+assets\artwork\hj_victory_sprite.png, 33
+Texture number loaded, 33
+************ Sprites.dat ************
+Numbers of lines in file, 123
+Loading audio clip...
+Audio system is okay!
+assets\sounds\windy.mp3, 0
+assets\sounds\yodel.wav, 1
+assets\sounds\intro.mp3, 2
+assets\sounds\main_loop.mp3, 3
+Main game loop entered!
+Playing, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+************ loading game level1.dat ************
+Numbers of lines in file, 596
+FPS, 218
+FPS, 228
+FPS, 211
+FPS, 224
+FPS, 224
+FPS, 218
+FPS, 215
+FPS, 205
+FPS, 206
+FPS, 204
+FPS, 207
+FPS, 210
+FPS, 207
+FPS, 214
+FPS, 220
+FPS, 223
+FPS, 219
+FPS, 230
+FPS, 239
+FPS, 238
+FPS, 236
+FPS, 239
+FPS, 244
+FPS, 240
+FPS, 232
+FPS, 233
+FPS, 248
+FPS, 248
+FPS, 234
+FPS, 250
+FPS, 234
+FPS, 229
+FPS, 234
+FPS, 337
+FPS, 345
+FPS, 343
+FPS, 343
+FPS, 345
+FPS, 345
+FPS, 346
+FPS, 346
+FPS, 345
+FPS, 346
+FPS, 346
+FPS, 345
+FPS, 345
+FPS, 345
+FPS, 346
+FPS, 345
+FPS, 346
+FPS, 345
+FPS, 345
+FPS, 345
+FPS, 345
+FPS, 345
+FPS, 346
+FPS, 346
+FPS, 346
+FPS, 345
+FPS, 346
+FPS, 344
+FPS, 344
+FPS, 342
+FPS, 344
+FPS, 346
+FPS, 344
+FPS, 345
+FPS, 344
+FPS, 346
+FPS, 346
+FPS, 347
+FPS, 346
+FPS, 335
+FPS, 345
+FPS, 347
+FPS, 344
+FPS, 346
+FPS, 344
+FPS, 346
+FPS, 345
+FPS, 347
+FPS, 344
+FPS, 346
+FPS, 344
+FPS, 346
+FPS, 345
+FPS, 344
+FPS, 346
+FPS, 344
+FPS, 342
+FPS, 347
+FPS, 344
+FPS, 335
+FPS, 340
+FPS, 345
+FPS, 346
+FPS, 345
+FPS, 346
+FPS, 342
+FPS, 344
+FPS, 345
+FPS, 345
+FPS, 346
+FPS, 342
+FPS, 344
+FPS, 345
+FPS, 518
+FPS, 764
+FPS, 415
+FPS, 171
+FPS, 170
+FPS, 170
+FPS, 170
+FPS, 170
+FPS, 170
+FPS, 170
+FPS, 170
+FPS, 170
+FPS, 171
+FPS, 170
+FPS, 171
+FPS, 171
+FPS, 170
+FPS, 170
+FPS, 171
+FPS, 170
+FPS, 170
+FPS, 173
+FPS, 176
+FPS, 179
+FPS, 180
+FPS, 186
+FPS, 185
+FPS, 197
+FPS, 209
+************ Shutting Down ************
+Game state pointers deleted!
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Playing, 3
+Audio sounds are all killed!
+*************************************
+Program ended!
+*************************************

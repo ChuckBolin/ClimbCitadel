@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClimbingTheCitadel", "CTC.vcproj", "{DEFCD124-F104-4CDC-832E-DA1C0690430F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DEFCD124-F104-4CDC-832E-DA1C0690430F}.Debug.ActiveCfg = Debug|Win32
+		{DEFCD124-F104-4CDC-832E-DA1C0690430F}.Debug.Build.0 = Debug|Win32
+		{DEFCD124-F104-4CDC-832E-DA1C0690430F}.Release.ActiveCfg = Release|Win32
+		{DEFCD124-F104-4CDC-832E-DA1C0690430F}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
